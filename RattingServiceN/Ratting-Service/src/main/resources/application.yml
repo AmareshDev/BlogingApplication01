@@ -1,0 +1,28 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/
+      database: Amareshdb
+#  application:
+#    name: RATTING-SERVICE
+
+server:
+  port: 8333
+
+
+
+
+#eureka:
+#  instance:
+#    prefer-ip-address: true
+#  client:
+#    fetch-registry: true
+#    register-with-eureka: true
+#    service-url:
+#      defaultZone: http://localhost:8444/eureka
+#
+
+
+
+
+
